@@ -1,0 +1,16 @@
+# System files and folders
+.DS_Store
+
+# Data files
+*.csv
+*.xl*
+
+# Python files
+*.pyc
+venv
+
+# API secrets
+secrets
+
+# Pycharm files
+.idea
